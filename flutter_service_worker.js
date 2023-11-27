@@ -27,13 +27,13 @@ const RESOURCES = {"canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "dadb2ee78882211ffaaabc41a072626b",
-"/": "dadb2ee78882211ffaaabc41a072626b",
+"index.html": "1928a56922b6677263ac52f8b7de925c",
+"/": "1928a56922b6677263ac52f8b7de925c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "61c5be6d454c9e3120fae14ce36bf0c1",
+"main.dart.js": "a201ae88ae4418533450084720614f18",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4"};
 // The application shell files that are downloaded before a service worker can
 // start.
